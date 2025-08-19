@@ -119,4 +119,4 @@ Meowtify wordt uitgebracht onder de MIT-licentie. U kunt meer informatie vinden 
 
 Wiisus - @ssh.3bdou on discord
 
-Projectlink: [https://github.com/uw-gebruikersnaam/meowtify-web](https://github.com/uw-gebruikersnaam/meowtify-web)
+

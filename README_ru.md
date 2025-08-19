@@ -119,4 +119,4 @@ Meowtify выпускается под лицензией MIT. Вы можете
 
 Wiisus - @ssh.3bdou on discord
 
-Ссылка на проект: [https://github.com/ваш-логин/meowtify-web](https://github.com/ваш-логин/meowtify-web)
+

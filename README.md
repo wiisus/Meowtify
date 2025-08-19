@@ -119,4 +119,4 @@ Meowtify is released under the MIT License. You can find out more in the `LICENS
 
 Wiisus - @ssh.3bdou on discord
 
-Project Link: [https://github.com/your-username/meowtify-web](https://github.com/your-username/meowtify-web)
+

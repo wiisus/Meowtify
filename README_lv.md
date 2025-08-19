@@ -119,4 +119,4 @@ Meowtify tiek izlaists saskaņā ar MIT licenci. Vairāk informācijas varat atr
 
 Wiisus - @ssh.3bdou on discord
 
-Projekta saite: [https://github.com/jūsu-lietotājvārds/meowtify-web](https://github.com/jūsu-lietotājvārds/meowtify-web)
+

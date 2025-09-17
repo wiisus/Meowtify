@@ -1,0 +1,126 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #121212;
+    color: #fff;
+}
+
+#auth-container {
+    background-color: #1a1a1a;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+#meowtify-title {
+    font-size: 3em;
+    margin-bottom: 30px;
+    color: #1db954;
+}
+
+#auth-buttons button {
+    background-color: #1db954;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 1.1em;
+    margin: 10px;
+    transition: background-color 0.3s ease;
+}
+
+#auth-buttons button:hover {
+    background-color: #1ed760;
+}
+
+.form-container {
+    margin-top: 20px;
+}
+
+.form-container h2 {
+    color: #1db954;
+}
+
+.form-container input[type="text"] {
+    width: calc(100% - 40px);
+    padding: 12px 20px;
+    margin: 10px 0;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #282828;
+    color: #fff;
+    font-size: 1em;
+}
+
+.form-container button {
+    background-color: #1db954;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.form-container button:hover {
+    background-color: #1ed760;
+}
+
+.hidden {
+    display: none;
+}
+
+.fade-in {
+    animation: fadeIn 2s forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+#listening-history-section {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #282828;
+    border-radius: 10px;
+}
+
+#listening-history-section h2 {
+    color: #1db954;
+}
+
+#listening-history-list {
+    list-style: none;
+    padding: 0;
+}
+
+#listening-history-list li {
+    background-color: #333;
+    margin-bottom: 8px;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#add-dummy-history, #go-to-main-app {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+#add-dummy-history:hover, #go-to-main-app:hover {
+    background-color: #0056b3;
+}

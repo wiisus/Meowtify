@@ -1,0 +1,10 @@
+{
+  "BOT_TOKEN": "",
+  "TARGET_SERVER_ID": "",
+  "DATABASE_CHANNEL_ID": "",
+  "apiKeys": {
+    "enableSpotify": false,
+    "spotify": "YOUR_SPOTIFY_API_KEY",
+    "spotify_secret": "YOUR_SPOTIFY_CLIENT_SECRET"
+  }
+}
